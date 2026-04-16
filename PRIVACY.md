@@ -41,10 +41,11 @@ Os dados coletados são utilizados para:
 
 ## 4. Armazenamento de Dados
 
-- As mensagens e dados podem ser armazenados temporária ou persistentemente  
-- O armazenamento pode ser feito utilizando tecnologias como Redis ou sistemas similares  
-- Não há garantia de retenção permanente dos dados  
-- Os dados podem ser removidos a qualquer momento pelo responsável  
+- As mensagens e dados coletados podem ser armazenados de forma temporária ou persistente  
+- O armazenamento é realizado com base no legítimo interesse para garantir o funcionamento adequado do bot  
+- Os dados podem ser mantidos por tempo indeterminado, enquanto forem necessários para operação, melhoria e manutenção do bot  
+- Tecnologias como Redis ou sistemas similares podem ser utilizadas para armazenamento  
+- Os dados podem ser excluídos a qualquer momento mediante solicitação do usuário  
 
 ---
 
