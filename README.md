@@ -1,8 +1,8 @@
-# Belchior Vault
+# Belchior Bot + Vault
 
-Base de conhecimento para o assistente Belchior.
+Assistente IA com base de conhecimento integrada.
 
-## Estrutura
+## Estrutura Vault
 - 📊 Financeiro - Gastos, análises, orçamentos
 - 🔧 Homelab - Infraestrutura, containers, troubleshooting
 - 📚 Aprendizado - Cursos, notas, learnings
